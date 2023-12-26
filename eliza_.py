@@ -19,6 +19,10 @@ pares = [
         ['olá', 'como vai?', 'tudo bem?']
     ],
     [
+        r'zina|ronaldo|curintia',
+        ['brilha muito no curintia', 'brilha amuito no curintia', 'vai curinttia']
+    ],
+    [
         r'fala|e aí|topa',
         ['fala', 'e ai mano como vai?', 'suave?']
     ],
